@@ -1,0 +1,14 @@
+C:\Users\Baley\workspace\csharp\raa\raaproject\bin\Debug\net8.0\raaproject.exe
+C:\Users\Baley\workspace\csharp\raa\raaproject\bin\Debug\net8.0\raaproject.deps.json
+C:\Users\Baley\workspace\csharp\raa\raaproject\bin\Debug\net8.0\raaproject.runtimeconfig.json
+C:\Users\Baley\workspace\csharp\raa\raaproject\bin\Debug\net8.0\raaproject.dll
+C:\Users\Baley\workspace\csharp\raa\raaproject\bin\Debug\net8.0\raaproject.pdb
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.AssemblyInfoInputs.cache
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.AssemblyInfo.cs
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.csproj.CoreCompileInputs.cache
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.dll
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\refint\raaproject.dll
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.pdb
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\raaproject.genruntimeconfig.cache
+C:\Users\Baley\workspace\csharp\raa\raaproject\obj\Debug\net8.0\ref\raaproject.dll
